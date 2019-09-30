@@ -8,6 +8,6 @@ int main()
 	cin>>a>>b;
 	cout<<b+b+a;
 	string c=b.append(a);
-	cout<<c;
+	cout<<c;//ㅎㅇ
 	return 0;
 }
